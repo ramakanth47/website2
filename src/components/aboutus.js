@@ -89,16 +89,12 @@ const AboutUs = () => {
                 src={ceoImage}
                 alt="CEO"
                 className="img-fluid  mb-2"
-                style={{ maxWidth: '260px' }}
+                style={{ maxWidth: '240px' }}
               />
               <div className="text-white fw-bold">CEO</div>
               
             </div>
-            <p id="txtabt2">
-              “Skilldzire has a single purpose and that is to create stakeholder value…”<br />
-              – Venugopal A. <br />
-              CEO, Skilldzire
-            </p>
+           
           </div>
 
           <div className="col-md-9">
@@ -107,29 +103,14 @@ const AboutUs = () => {
               His understanding of one of the key challenges faced by the modern enterprise gave him the vision to start Skilldzire today.
             </p>
             <p>
-              With a solid background in the technology industry, he aims to establish Skilldzire as a future-focused company. He is poised to take Skilldzire to the next level of growth by turning it into a company that is shaped entirely by the needs of its customers.
+            With a rich background in the technology industry, he aims to establish SkillKwiz as an AI first and foremost company. He is poised to take SkillKwiz to its next level of growth by turning it into a company that is shaped entirely by the market it serves.
             </p>
           </div>
         </div>
       </div>
 
 
-      <div className="container my-5">
-        <div className="row justify-content-center">
-          <div className="col-md-10">
-            <div className="shadow rounded-4 overflow-hidden">
-              <video
-                src="https://skillkwizz.vercel.app/images/aboutpage/about_video.mp4"
-                controls
-                style={{ width: "100%", height: "auto" }}
-                poster="https://via.placeholder.com/1280x720?text=Video+Loading"
-              >
-                Your browser does not support the video tag.
-              </video>
-            </div>
-          </div>
-        </div>
-      </div>
+      
     </div>
     
 

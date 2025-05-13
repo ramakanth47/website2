@@ -642,11 +642,12 @@ label, input {
 
 
 
-.card {
+/* .card {
   text-align: center;
   margin: 10px;
   width: 100px;
-}
+  height: 120px;
+} */
 
 .card img {
   width: 50px;
@@ -1094,10 +1095,13 @@ body {
 }
 #txtabt2{
   color: #000;
-  margin-top: -170px;
+  margin-top: -100px;
   padding-left: 480px;
   margin-right: -480px;
   
+}
+.col-md-9{
+  color: #000;
 }
 .desc {
   color: #000;
